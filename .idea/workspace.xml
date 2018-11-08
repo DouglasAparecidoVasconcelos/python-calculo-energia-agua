@@ -56,6 +56,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -72,6 +75,7 @@
     <option name="width" value="1386" />
     <option name="height" value="781" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -199,13 +203,12 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1386" height="781" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1386" height="781" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925816" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24925816" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="0" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.310559" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.310559" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.39906833" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
