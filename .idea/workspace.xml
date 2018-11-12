@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfcc9509-6c90-4053-9332-ea4eaf23a7f1" name="Default" comment="" />
+    <list default="true" id="cfcc9509-6c90-4053-9332-ea4eaf23a7f1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/O Sistema de Cálculo das Contas de Luz e Água.docx" beforeDir="false" afterPath="$PROJECT_DIR$/O Sistema de Cálculo das Contas de Luz e Água.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$Sistema de Cálculo das Contas de Luz e Água.docx" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Principal.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Principal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Principal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cliente2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cliente2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -67,6 +80,7 @@
         <option value="$PROJECT_DIR$/energia.py" />
         <option value="$PROJECT_DIR$/agua.py" />
         <option value="$PROJECT_DIR$/Principal.py" />
+        <option value="$PROJECT_DIR$/cliente2.py" />
       </list>
     </option>
   </component>
@@ -204,6 +218,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1386" height="781" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24925816" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -265,6 +280,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
